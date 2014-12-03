@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/exp/!svn/ver/5/source/WebRoot/common/nui/themes/default/images/messagebox
+END
+icon-warning.gif
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/exp/!svn/ver/5/source/WebRoot/common/nui/themes/default/images/messagebox/icon-warning.gif
+END
+icon-question.gif
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/exp/!svn/ver/5/source/WebRoot/common/nui/themes/default/images/messagebox/icon-question.gif
+END
+loading.gif
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/exp/!svn/ver/5/source/WebRoot/common/nui/themes/default/images/messagebox/loading.gif
+END
+icon-error.gif
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/exp/!svn/ver/5/source/WebRoot/common/nui/themes/default/images/messagebox/icon-error.gif
+END
+icon-info.gif
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/exp/!svn/ver/5/source/WebRoot/common/nui/themes/default/images/messagebox/icon-info.gif
+END
